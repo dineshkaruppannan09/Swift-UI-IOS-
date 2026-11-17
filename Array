@@ -1,0 +1,14 @@
+let arr = [10, 50, 20, 80, 30]
+var even = 0
+var odd = 0
+
+for num in arr {
+    if num % 2 == 0 {
+        even += 1
+    } else {
+        odd += 1
+    }
+}
+
+print("Even =", even)
+print("Odd =", odd)
