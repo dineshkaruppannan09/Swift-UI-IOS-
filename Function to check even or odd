@@ -1,0 +1,9 @@
+func checkNumber(num: Int) {
+    if num % 2 == 0 {
+        print("Even")
+    } else {
+        print("Odd")
+    }
+}
+
+checkNumber(num: 15)
