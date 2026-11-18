@@ -1,0 +1,6 @@
+func multiply(a: Int, b: Int) -> Int {
+    return a * b
+}
+
+let result = multiply(a: 5, b: 4)
+print(result)
