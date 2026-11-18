@@ -1,0 +1,5 @@
+func add(a: Int, b: Int) {
+    print("Sum =", a + b)
+}
+
+add(a: 10, b: 20)
